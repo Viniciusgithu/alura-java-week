@@ -29,8 +29,18 @@
 - Criando a própria API com Spring;
 - Publicação da API no Cloud.
 
+<br>
 
-
+## 💻☕ Alguns links:
+* [Api de Filmes🎥](https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json)
+* [Expressões Regulares](https://regex101.com/)
+* [Decorar o Terminal👨‍💻](https://www.alura.com.br/artigos/decorando-terminal-cores-emojis)
+* [Guia do Mergulho🤿](https://grupoalura.notion.site/Imers-o-Java-2-Edi-o-Guia-do-Mergulho-69e40005601f4d089a9add98251197de)
+* [Repositório Imersão Java 2](https://github.com/alura-cursos/imersao-java-2/tree/aula1)
+* [Documentação do pacote javax.imageio - trata de leitura e escrita de imagens](https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/imageio/package-summary.html)
+* [Documentação da classe BufferedImage - Representa uma imagem no Java](https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/java/awt/image/BufferedImage.html)
+* [Documentação da classe Graphics2D - permite escrever, desenha e imprimir outras imagens em uma imagem original](https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/java/awt/Graphics2D.html)
+* [Documentação da abstração InputStream - representa um fluxo de leitura de dados de qualquer fonte, como arquivos, URLs, etc](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/InputStream.html)
 
 
 
